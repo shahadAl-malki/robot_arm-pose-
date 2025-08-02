@@ -1,0 +1,6 @@
+
+This task involves building a simple web application using HTML, CSS, JavaScript, and PHP.
+The goal is to design a webpage interface and connect it to a MySQL database. The required database tables should be created to store pose information.
+Two PHP scripts must be implemented: get_run_pose.php, which retrieves pose data from the database, and update_status.php, which sets the status value to 0 in the database. 
+The frontend handles the visual layout and interactions, while the backend manages data processing and communication with the database.
+
